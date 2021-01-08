@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+.container{
+    width: 60%;
+    margin: auto;
+}
+.bg1{
+    background-color: grey;
+}
+.bg2{
+    background-color: lightgray;
+}
+
+header{
+    padding:20px 0;
+    
+}
+header,footer{
+    background-color: black;
+    color:wheat
+}
+
+section{
+    overflow: auto;
+}
+
+
+.sboxleft{
+    width: 35%;
+    background-color:lightgray;
+    margin: 0px 211px;
+}
+
+.sboxright{
+    width: 30%;
+    margin: 0 211px;
+    background-color: gray;
+}
+.srightbox{
+    width: 32%;
+    margin-left: -13%;
+    background-color: white;
+    margin-top: 5px;
+}
+.srightmargin{
+    margin-left: -13%;
+    background-color: gainsboro;
+    margin-top: 0px;
+    width: 39%;
+    padding-top: 0px;
+}
+.fleft{
+    float: left;
+}
+footer{
+    height: 300px;
+    padding:  20px 197px;
+}
+footer h3{
+    margin: 10px;
+}
